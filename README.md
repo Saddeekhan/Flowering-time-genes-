@@ -1,6 +1,7 @@
 **Flowering Time Gene Expression Analysis**
 
 This repository contains a Python script for analyzing and visualizing flowering time gene expression data from RNA-seq experiments. The workflow includes data preprocessing, normalization, clustering, and visualization of gene expression patterns across developmental stages.
+<img width="2000" height="1000" alt="Klepikova reproducibiliity" src="https://github.com/user-attachments/assets/49d9d387-cfe9-43a1-a102-be7820a2b59a" />
 
 **Features**
 
